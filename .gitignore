@@ -1,0 +1,8 @@
+## vs c++ dll
+
+Debug
+ipch
+kalmanFilter\Debug
+kalmanFilter\x64
+*.sdf
+*.suo
